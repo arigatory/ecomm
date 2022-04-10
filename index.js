@@ -42,7 +42,7 @@ app.post('/', async (req, res) => {
     const user = await usersRepo.create({ email, password });
 
     // store the id inside cookie
-    req.session.userId = user.Id;
+    req.session.userId = user.id;
 
     res.send(`
         <div>Account created!</div>
