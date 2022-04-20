@@ -1,47 +1,7 @@
 [
   {
-    "email": "test@test.com",
-    "password": "52b02785a49447a190a87cdfd17144c65479be5de47e29d31d062fe30e92130bcf4938ae5bc14686307e05c4ebaec94a4dbfb2e53a6bd8bdafeee72710e810ae.b719e57728f87676",
-    "id": "560b18c8"
-  },
-  {
-    "email": "",
-    "password": "86366a71ee477994cb7b05b62e66f483e2d3712cd3efeb4eb73bc64031077af7aed66987d8048004f5eaefb8daa9f6d01cad43cb126574e4410bb25a6829ba78.43400dea5b9037ec",
-    "id": "8ce6ce16"
-  },
-  {
-    "email": "@",
-    "password": "20391f1d15a9592f68b2ca64bda006f189b29e361cb6d8476a7aa41b3021a496a77a310be40108f61f6422bffbf45de890bc51b544fbd664dde4a1ef5abeea29.6106c5374eaf1e9d",
-    "id": "a6478548"
-  },
-  {
-    "email": "@+79057610952",
-    "password": "53f7357055f80d354e3cfa282fd9e994003ef9f8bd84bf71b8eb34f8ef6c0f7122e9af8f53b22e5f0747b56747bfe4d11cdcbf0d3cd8157476f908479091e980.76418bd074c9c327",
-    "id": "cddb0945"
-  },
-  {
-    "email": "@123",
-    "password": "1c706e0337f4d523014ae85c2bb4dae90bfe5831dcad6f51adeedf8f15b24f722dbf01b9528d231bc241e371f0c36456d595065646fcc11fba8802cd46178538.39180c0ced476ea3",
-    "id": "c725e0c5"
-  },
-  {
     "email": "arigatory@gmail.com",
-    "password": "f7e1989c78891487aad5564473d47b46967fcb9834e216fcb3c96cb2d45813db4443532c02850b08a020dda64171f0dcb2d59cc09c3c0285a69171a61be02698.7d3d7665327fa5e0",
-    "id": "a4f8551d"
-  },
-  {
-    "email": "arigatory@gmail.com",
-    "password": "8dc282b7b7736ca3e1fb8a01375ba67d22ebe4423f7e90ac1ee2722b3dd6b929c976b494b9ba5f405a8a130697808a6f4aaac55930bdf23519aca8c9f306833d.e17e1e952708e4a9",
-    "id": "cce3683e"
-  },
-  {
-    "email": "arigatory@gmail.com",
-    "password": "97fb8b195cc38d5cc260551399f5636fcb5afba102e884ec4b3f56672b386209ef9ca2eb617f0c035f25bdc78eb931c5b1c0d1b2ee20af6662441bffb596ad63.290194ba1cc4ce62",
-    "id": "483d2523"
-  },
-  {
-    "email": "arigatory@gmail.com",
-    "password": "83e444199a63a0fb6d5262bbca7bddd72c2bd9308d0fc45744825259f109a49ac4ec7d5e5a2c7ae8830265eca5da88dd2966a0d682751d166d796e0916348f14.af546ca8435a19be",
-    "id": "61e937f4"
+    "password": "741d3a0accce0c8cd8ce14c6495bdc3117665a04ec7ac5439e5618b895d6df4c0c51bffa8dcbd74765cd9583b43635e03169f8a1c5f261fed59cb9fccb100445.617c88d4ac2f4511",
+    "id": "e562169c"
   }
 ]
