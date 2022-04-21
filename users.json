@@ -8,5 +8,15 @@
     "email": "test@test.com",
     "password": "3cf71fa524e6f0b825a164f90c106ed254485c35d02cad59e0fb48ce5b6a9b1d5fb6f8c740a609776c3de82357d93c7574de6f998b1385c4d6503f06e24daa5f.13d47795fc10111d",
     "id": "f09fa592"
+  },
+  {
+    "email": "vaiooi@mail.ru",
+    "password": "7c305b88aa4318f74bec714a516efcc8cb70670bfcd2f4c0a210862f90e8b1719d00e8283f00ddb0a6149565209688a2a27012a741e18460168f7b776e28497b.fbb7f606a1e12cf5",
+    "id": "64540727"
+  },
+  {
+    "email": "arigatory@me.com",
+    "password": "8faac024380f397d382d8700187ee101067fdd6199cc7fe90b9750a208ea8276a17e9271c3035c2a04c2e01130c915a76e32cdc0f9955508ed17246f314f7a59.5c95206c62e91493",
+    "id": "dd071cb8"
   }
 ]
